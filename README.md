@@ -77,7 +77,7 @@ To save some time and material, I suggest unticking "Use towers" in support sett
 * Upload firmware using USB cable and load it with turtle/fish food
 
 ### Firmware
-You can use [this firmware](https://github.com/kacpi2442/BTD) or write your own.
+You can use [this firmware](https://github.com/kacpi2442/TurtleFeederFirmware) or write your own.
 
 Create an issue if you want me to add a link to your firmware here.
 
